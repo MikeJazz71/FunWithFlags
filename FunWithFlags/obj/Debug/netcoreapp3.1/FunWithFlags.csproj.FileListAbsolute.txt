@@ -1,0 +1,14 @@
+C:\Users\big_j\source\repos\FunWithFlags\FunWithFlags\bin\Debug\netcoreapp3.1\FunWithFlags.exe
+C:\Users\big_j\source\repos\FunWithFlags\FunWithFlags\bin\Debug\netcoreapp3.1\FunWithFlags.deps.json
+C:\Users\big_j\source\repos\FunWithFlags\FunWithFlags\bin\Debug\netcoreapp3.1\FunWithFlags.runtimeconfig.json
+C:\Users\big_j\source\repos\FunWithFlags\FunWithFlags\bin\Debug\netcoreapp3.1\FunWithFlags.runtimeconfig.dev.json
+C:\Users\big_j\source\repos\FunWithFlags\FunWithFlags\bin\Debug\netcoreapp3.1\FunWithFlags.dll
+C:\Users\big_j\source\repos\FunWithFlags\FunWithFlags\bin\Debug\netcoreapp3.1\FunWithFlags.pdb
+C:\Users\big_j\source\repos\FunWithFlags\FunWithFlags\obj\Debug\netcoreapp3.1\FunWithFlags.csproj.AssemblyReference.cache
+C:\Users\big_j\source\repos\FunWithFlags\FunWithFlags\obj\Debug\netcoreapp3.1\FunWithFlags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\big_j\source\repos\FunWithFlags\FunWithFlags\obj\Debug\netcoreapp3.1\FunWithFlags.AssemblyInfoInputs.cache
+C:\Users\big_j\source\repos\FunWithFlags\FunWithFlags\obj\Debug\netcoreapp3.1\FunWithFlags.AssemblyInfo.cs
+C:\Users\big_j\source\repos\FunWithFlags\FunWithFlags\obj\Debug\netcoreapp3.1\FunWithFlags.csproj.CoreCompileInputs.cache
+C:\Users\big_j\source\repos\FunWithFlags\FunWithFlags\obj\Debug\netcoreapp3.1\FunWithFlags.dll
+C:\Users\big_j\source\repos\FunWithFlags\FunWithFlags\obj\Debug\netcoreapp3.1\FunWithFlags.pdb
+C:\Users\big_j\source\repos\FunWithFlags\FunWithFlags\obj\Debug\netcoreapp3.1\FunWithFlags.genruntimeconfig.cache
